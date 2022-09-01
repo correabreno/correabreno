@@ -1,6 +1,6 @@
-### Oie devs 👋
+### EAE 🤙
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Passo meu tempo escrevendo códigos e ouvindo música.
 
 ## <img width="45" alt="about" src="https://pbs.twimg.com/media/E6_GHpYWQAk_c0a?format=jpg&name=medium"> Mais sobre mim
 
